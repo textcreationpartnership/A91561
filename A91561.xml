@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discreet and judicious discourse betweene vvisdome and pietie, two worthy members. Wherein is declared the power and jurisdiction of Parliaments in their proceedings, and in the alteration of church government. Written by R. P.</title>
+            <author>R. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91561</idno>
+            <idno type="STC">Wing P98</idno>
+            <idno type="STC">Thomason E142_19</idno>
+            <idno type="STC">Thomason E136_21</idno>
+            <idno type="STC">ESTC R15528</idno>
+            <idno type="EEBO-CITATION">99859880</idno>
+            <idno type="PROQUEST">99859880</idno>
+            <idno type="VID">156586</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156586)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E142[19], 24:E136[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discreet and judicious discourse betweene vvisdome and pietie, two worthy members. Wherein is declared the power and jurisdiction of Parliaments in their proceedings, and in the alteration of church government. Written by R. P.</title>
+                  <author>R. P.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Church polity --  Early works to 1800</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156586:1" rendition="simple:additions"/>
+            <p>A DISCREET AND IVDICIOVS DISCOVRSE BETWEENE VVISDOME AND PIETIE, Two worthy Members.</p>
+            <p>Wherein is declared the Power and Iuriſdiction of Parliaments in their pro<g ref="char:EOLhyphen"/>ceedings, and in the alteration of Church Government.</p>
+            <p>Written by <hi>R. P.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> 1642.</p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:156586:2"/>
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>crest or blazon of the Knights of the Garter</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:156586:2"/>
+            <head>A diſcreet and judicious Diſcourſe, betweene WISDOME and PIETY, two worthy Members.</head>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>
+                  <seg rend="decorInit">S</seg>Ir, I rejoyce much at our ſo hap<g ref="char:EOLhyphen"/>py meeting in this place; I hope leiſure will now permit us to conferre of theſe times, and the proceedings of the High Court of Parliament, in ſetling the diſorders in this State; and ſuch a forme of governement in the Church, as I hope will be congruent to the ſence and true mea<g ref="char:EOLhyphen"/>ning of the Word of God.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>Sir, I joy as much as you for our mee<g ref="char:EOLhyphen"/>ting, and I hope we may ſpend a little time in diſ<g ref="char:EOLhyphen"/>courſe of thoſe things you have mentioned; I con<g ref="char:EOLhyphen"/>ceive it will not be loſt time, nor much hinderance to our other occaſions. And under favour Sir, pray what thinke you of the proceedings of the Parlia<g ref="char:EOLhyphen"/>ment, concerning Church Government, and Ec<g ref="char:EOLhyphen"/>cleſiaſticall diſcipline.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>A Parliament, pray Sir, what meane you by the word, and what is the ſignification thereof?</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>The word is compounded of, and de<g ref="char:EOLhyphen"/>rived from the <hi>French</hi> and <hi>Latine</hi> words; as I con<g ref="char:EOLhyphen"/>ceive, <hi>Parle Mentis,</hi> which I underſtand ſignifies a
+<pb n="2" facs="tcp:156586:3"/> ſpeech of the Minde, contracted Parlement or Par<g ref="char:EOLhyphen"/>liament; and I meane thereby a Councell of grave and learned men, congregated and aſſembled by their Princes command and authority, to conſult and debate freely, ſpeaking clearely what is their minde and intentions; ſuch things tending to the ſafety and proſperity of their King and Countrey, and what forme of Governement is meeteſt to bee uſed in the Church, in the exerciſe of Religion.</p>
+            </sp>
+            <sp>
+               <speaker>Piety</speaker>
+               <p>I conceive your definition of the word is good, but I deſire to know whether it bee in the power of ſuch a Councell or Parliament, to alter the Governement of a Church, eſtabliſhed and con<g ref="char:EOLhyphen"/>firmed for ſeverall ages together in a Kingdome, both by the Princes thereof ſucceſſively, and a whole Councell of State gathered together, and aſſembled in Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>To anſwer your requeſt: I conceive it is in the power of a Parliament, with their Princes conſent, to alter the Governement of the Church; I can give you inſtances of the ſame: The Romiſh Religion was a long time in this Kingdome practi<g ref="char:EOLhyphen"/>ſed and profeſſed, confirmed by ſeverall Kings and Parliaments of this Land, untill the 28. yeare of the raigne of <hi>Henry</hi>
+8. Then did that Prince and his Parliament begin to alter the Governement of the Church, and in the
+31. of his raigne hee perfected his intentions in a totall change of the Government thereof: Aboliſhed and demoliſhed all places of worſhip, according to the doctrine and diſcipline of the Church of <hi>Rome,</hi> as Abbies, Monaſteries,
+<pb n="3" facs="tcp:156586:3"/> Priories, Nunneries, and the like: the lands and demeanes appertaining to the ſame were given to the Crown; as alſo the worſhip it ſelfe. This forme of Government (attended onely with ſome Cere<g ref="char:EOLhyphen"/>monies of the Church of <hi>Rome</hi>) continued this Kings raigne till <hi>Edward</hi> 6. in whoſe raigne was a further and more perfecter change in the Governe<g ref="char:EOLhyphen"/>ment of the Church then before. Now was Bibles and other Divine bookes ordained by the King and his great Councell to be tranſlated into the <hi>Engliſh</hi> tongue; a forme of Common-prayer made and con<g ref="char:EOLhyphen"/>firmed by Parliament to bee uſed in the <hi>Engliſh</hi> tongue; the adminiſtration of the Euchariſt, and the Sacrament of Baptiſme, uſed according as in the Ancient and Primitive Church; which forme of government and worſhip of God is now called the Proteſtant Religion. This Government and Alteration continued but a ſmall time, till the raigne of Queene <hi>Mary,</hi> who againe reduced Pope<g ref="char:EOLhyphen"/>ry to its height in this Kingdome. This change con<g ref="char:EOLhyphen"/>tinued till Queen
+<hi>Elizabeth</hi> of bleſſed memory, who againe ſet up the Proteſtant Church, which hath ever ſince till of late flouriſhed in this Kingdome; and thus you plainly ſee a Parliament may with the conſent of their Prince, alter the Government of the Church, and the diſcipline thereof, to that forme which the Prince ſtands moſt affected too.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>But pray Sir, if a Catholique Prince come to raigne over a Kingdome, wherein the Proteſtant Religion is altogether profeſſed and eſtabliſhed: Is it then in the power of the Parliment, without the
+<pb n="4" facs="tcp:156586:4"/> conſent of the King, to make Lawes and Ordinan<g ref="char:EOLhyphen"/>ces for the confirmation of their Religion, in the Government, Doctrine, and Diſcipline thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>This queſtion is difficult to be reſol<g ref="char:EOLhyphen"/>ved, and I cannot punctually determine thereof; but I conceive, if over ſuch a State there bee ſuch a Prince, that is not a native of that Kingdome, a Par<g ref="char:EOLhyphen"/>liament of the whole State aſſembled, may without his conſent eſtabliſh and confirme the ancient Laws and Statutes of the Kingdome, for the Government of the Church and State. But whether it be ſo, if a native Prince, I cannot certainly reſolve.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>I verily beleeve the Parliament hath pow<g ref="char:EOLhyphen"/>er and authority to change upon occaſion the Go<g ref="char:EOLhyphen"/>vernment of the Church in contrary Religions, as before is inſt<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ced; but I am not yet ſatisfied whe<g ref="char:EOLhyphen"/>ther a Parliament, either with conſent of the Prince, or without, can alter a forme of Governe<g ref="char:EOLhyphen"/>ment eſtabliſhed in a Kingdome, concerning one Religion, be it the Proteſtant or other.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>To anſwer this, I conceive the Do<g ref="char:EOLhyphen"/>ctrine of the Church cannot be altered, for then we doe change our Religion, and are not of the ſame as before, but of a new; but the Government and Diſ<g ref="char:EOLhyphen"/>cipline of a Church may be changed, according as the wiſdome and policy of the State ſhall finde the ſame convenient or inconvenient, hurtfull or com<g ref="char:EOLhyphen"/>modious for the ſame.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>Nay, the Titles, Places and Offices of men of holy Order be at the pleaſure of a Parliament, changed, or quite taken away; being of ſuch antiqui<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:156586:4"/> in the Church, as Lord Biſhops, Biſhops, Arch<g ref="char:EOLhyphen"/>deacons, De<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es, Prebends, and the like.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>I conceive their Titles may bee chan<g ref="char:EOLhyphen"/>ged, or taken away; as Lords Biſhops, Archdea<g ref="char:EOLhyphen"/>cons, &amp;c. for no ſuch names are to be found in the Scripture, or by the ſame warranted: Their places of both Temporall and ſpirituall Juriſdiction (as they are made the onely Governours of the Church and of the State too) may if a State finde them hurt<g ref="char:EOLhyphen"/>full and prejudiciall to the ſame, be taken away and changed; but for their Spirituall functions and offi<g ref="char:EOLhyphen"/>ces of Biſhops or Presbyters, I conceive the ſame cannot be changed or taken away with-ſafety or ſe<g ref="char:EOLhyphen"/>curity; But the ſole power and juriſdiction in go<g ref="char:EOLhyphen"/>vernment of the Church may be taken from parti<g ref="char:EOLhyphen"/>cular perſons, (and aſſiſtance of grave Divines joy<g ref="char:EOLhyphen"/>ned with them in the ſame) as the wiſdome of the Parliament ſhall ſee me meet.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>But may a State Politique and Civill change the government of the Church, and eſtabliſh a new ſonnic of government in the ſame, without ad<g ref="char:EOLhyphen"/>viſe of a Councell or Synod of Divines that are grave and learned, elected and choſen out of every County of the Kingdome, and their conſents to the change of government in the Church?</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>I conceive the Parliament, as it is an Aſſembly of Lay men, and none of them in holy Order, cannot of its ſelfe change the government of a Church, without adviſe and conſent of the Clergy: But I beleeve it is in the ſole power of Parliament to make choyce of ſuch Divines as ſhall
+<pb n="6" facs="tcp:156586:5"/> informe them concerning what Government and Diſcipline is moſt convenient for the Church, and what not.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>Then cannot a Synod or Convocation of the Clergy be aſſembled without authority of Par<g ref="char:EOLhyphen"/>liament, and what Ordinances is made in the ſame by them are of no validity, without confirmation by the King and Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>No truly, I beleeve there cannot; and what is done by a Synod or Convocation, without conſent and confirmation of King and Parliament, is not binding to the Subject. And now thanking you lovingly for your good diſcourſe, I muſt take my leave of you till another time; wiſhing all things may be done in Parliament to the honour of God, firme eſtabliſhment of true Religion, and ſuch a forme of government in the Church, as may be agreeble to the Word of God, and the ſetling of peace and unity in all his Majeſties King<g ref="char:EOLhyphen"/>domes.</p>
+            </sp>
+            <sp>
+               <speaker>Piety.</speaker>
+               <p>Amen. God be with you Sir till out next meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Wiſdome.</speaker>
+               <p>I thanke you heartily.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
